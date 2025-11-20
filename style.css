@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(146, 176, 201);
+}
+
+#container {
+    margin: 3rem 0;
+    display: flex;
+    flex-flow: row wrap;
+    width: 960px;
+    height: 960px;
+    border-radius: 10px;
+}
+
+.square {
+    background-color: white;
+    flex-grow: 1;
+    flex-shrink: 0;
+    border: 1px rgb(200, 200, 200) solid;
+}
+
+#btn {
+    margin: 3rem 0;
+    font-size: 4em;
+    padding: 0.2em;
+    border-radius: 0.4em;
+    background-color: rgb(216, 240, 255);
+}
+
+#btn:hover {
+    background-color: rgb(203, 235, 255);
+}
