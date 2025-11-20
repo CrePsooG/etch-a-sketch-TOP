@@ -13,11 +13,11 @@ body {
 }
 
 #container {
-    margin: 3rem 0;
+    margin: 2rem 0;
     display: flex;
     flex-flow: row wrap;
-    width: 960px;
-    height: 960px;
+    width: 800px;
+    height: 800px;
     border-radius: 10px;
 }
 
