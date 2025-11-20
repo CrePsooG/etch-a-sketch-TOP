@@ -1,4 +1,4 @@
-## Etch-A-Sketch
+## [Etch-A-Sketch](https://github.com/CrePsooG/etch-a-sketch-TOP)
 ### To play:
 - Step 1: Press the button at the top of the page
 - Step 2: Enter the number of squares you would like to have on one side
